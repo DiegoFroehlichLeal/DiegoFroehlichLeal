@@ -7,9 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoFroehlichLeal&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dego-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"> 
+  <img align="center" alt="Dego-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
+ <img align="center" alt="Dego-Spring" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Dego-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Dego-Oracle" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="right" alt="Dego-gifcode" height="150" width="150" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 </div>
   
