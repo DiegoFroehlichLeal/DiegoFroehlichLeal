@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 ## Olá! Eu sou o Diego 🐱‍💻
+#### Estudante de Ciências da Computação pela Unversidade do Sul de Santa Catarina, iniciante nesse mundo da programação com fortes desvio ao lado javeiro da força.
+#### Trabalho atualmente na empresa WEG em Jaraguá do Sul/SC com desenvolvimento de RPA's com a a ferramenta Blue Prism e tambem desenvolvimento em Sharepoint.
+#
+#
  <div>
   <a href="https://github.com/DiegoFroehlichLeal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFroehlichLeal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
