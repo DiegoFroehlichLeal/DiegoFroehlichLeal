@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Olá! Eu sou o Diego 🐱‍💻
-#### Estudante de Ciências da Computação pela Unversidade do Sul de Santa Catarina, iniciante nesse mundo da programação com fortes desvio ao lado javeiro da força.
+#### Estudante de Ciências da Computação pela Universidade do Sul de Santa Catarina, iniciante nesse mundo da programação com fortes desvio ao lado “javeiro da força”, na faculdade participei do projeto de inclusão digital para idosos, onde ensinávamos pessoas com mais de 60 anos a se aventurar pelo mundo da tecnologia, hoje participo também do grupo de Embaixadores Oracle, onde ajudamos outros alunos com auxílio da ferramenta Alice a aprender programação de um jeito simples e divertido.
 #### Trabalho atualmente na empresa WEG em Jaraguá do Sul/SC com desenvolvimento de RPA's com a a ferramenta Blue Prism e tambem desenvolvimento em Sharepoint.
 #
 #
