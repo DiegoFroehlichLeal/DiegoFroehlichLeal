@@ -17,7 +17,10 @@
   <img align="center" alt="Dego-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Dego-Oracle" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  <img align="center" alt="Dego-GoLang" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="Dego-Javascript" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="right" alt="Dego-gifcode" height="150" width="150" src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
+
+ 
 </div>
   
   ##
