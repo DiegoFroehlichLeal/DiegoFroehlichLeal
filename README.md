@@ -33,5 +33,6 @@
  
   ![Snake animation](https://github.com/DiegoFroehlichLeal/DiegoFroehlichLeal/blob/output/github-contribution-grid-snake.svg)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wso7sqo6y34y1lqvfcchr6sz1&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=wso7sqo6y34y1lqvfcchr6sz1&redirect=true)
-</div>
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=bbgoxysmqjvslj17yq5xmezaz&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=bbgoxysmqjvslj17yq5xmezaz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
+ </div>
 
