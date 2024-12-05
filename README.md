@@ -6,7 +6,7 @@
  <div>
   <a href="https://github.com/DiegoFroehlichLeal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoFroehlichLeal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://vercelstats-diegofroehlichleals-projects-sigma-five.vercel.app/api/top-langs/?username=DiegoFroehlichLeal&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats-rho-silk-84.vercel.app/api/top-langs/?username=DiegoFroehlichLeal&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 
 </div>
   
