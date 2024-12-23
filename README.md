@@ -1,8 +1,5 @@
 ### Hi there 👋
-
 ## Olá! Eu sou o Diego 🐱‍💻
-#
-#
  <div>
   <a href="https://github.com/DiegoFroehlichLeal">
   <img height="180em" src="https://github-readme-stats-rho-silk-84.vercel.app/api?username=DiegoFroehlichLeal&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
